@@ -1,0 +1,2 @@
+# exercicio tbuada
+ tabuada simples
